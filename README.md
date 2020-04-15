@@ -7,7 +7,7 @@ it copy xlua.dll to output folder in project
 
 ## About unmanaged code debugging  
 Please use vs2013 to open xluatest_vs2013.sln  
-Please check 'Enable native code debugging' in sharpluatest_vs2013 project Debug tab  
+Please check 'Enable native code debugging' in xluatest_vs2013 project Debug tab  
 see https://www.technipages.com/visual-studio-native-code-debugging  
 When debugging, click menu 'Debug->Exception' and enable all exceptions  
 
